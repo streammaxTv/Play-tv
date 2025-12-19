@@ -1,0 +1,8 @@
+{
+  "name": "Streamplay/Tv",
+  "description": "A powerful PWA IPTV player inspired by XCIPTV, supporting Xtream Codes API with a modern and intuitive interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
